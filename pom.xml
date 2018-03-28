@@ -212,13 +212,13 @@
 					<version>2.4</version>
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
-						<warName>nguyenvanphituoc-14110434</warName>
+						<warName>team12-springboot</warName>
 						
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		<finalName>nguyenvanphituoc-14110434</finalName>
+		<finalName>team12-springboot</finalName>
     </build>
 
 </project>
